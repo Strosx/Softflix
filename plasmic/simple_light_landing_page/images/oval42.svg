@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 138 125">
+  <path d="M4 69C4 33.102 33.102 4 69 4c35.899 0 65 29.102 65 65 0 21.364-10.307 40.321-26.22 52.169" stroke="url(#ehogtbbyB_Xa)" stroke-width="7" stroke-linecap="round"/>
+  <defs>
+    <radialGradient id="ehogtbbyB_Xa" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(65 0 0 65 69 69)">
+      <stop offset=".14" stop-color="#0EF1FF"/>
+      <stop offset="1" stop-color="#0764FF"/>
+    </radialGradient>
+  </defs>
+</svg>
